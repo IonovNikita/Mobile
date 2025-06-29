@@ -6,3 +6,8 @@
 Тест кейсы:
 [Тест кейсы.pdf](https://github.com/user-attachments/files/20966537/G10-2025-06-29.pdf)
 
+Тестовый прогон: 
+[Test Run.pdf](https://github.com/user-attachments/files/20968085/G10-Test%2Brun%2B2025_06_29.pdf)
+
+Отчет о дефектах: 
+[Отчет о дефектах](https://github.com/user-attachments/files/20968086/Issues.4.xlsx)
