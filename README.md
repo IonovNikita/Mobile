@@ -13,4 +13,5 @@
 [Отчет о дефектах](https://github.com/user-attachments/files/20968086/Issues.4.xlsx)
 
 Отчет о тестирование: 
-[Отчет.pdf](https://github.com/user-attachments/files/20968674/default.pdf)
+[Отчет .pdf](https://github.com/user-attachments/files/20968697/1.pdf)
+
