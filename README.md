@@ -18,6 +18,6 @@
 Перехват трафика:
 -Удалить другой товар [Ссылка на видеозапись](https://github.com/user-attachments/assets/4cf02fab-3e7b-4e97-88ec-70663e6f460d)
 
--Заменить сайт на картинку [](https://github.com/user-attachments/assets/c2185946-8f4f-495f-aaec-a0c917cf949d)
+-Заменить сайт на картинку [Ссылка на видеозапись](https://github.com/user-attachments/assets/c2185946-8f4f-495f-aaec-a0c917cf949d)
 
 -User-agent[User-agent](https://github.com/user-attachments/assets/54da355b-9443-4f21-a220-967b039f3c05)
